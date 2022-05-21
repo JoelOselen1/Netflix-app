@@ -7,4 +7,4 @@
 3. The Invisible Man
 4. The Complicated Project
 5. Simply Javascript
-6. The New Web
+6. The New Web !
